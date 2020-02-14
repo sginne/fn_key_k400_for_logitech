@@ -1,4 +1,4 @@
-#FN disabler for Logitech k400+
+# FN disabler for Logitech k400+
 
 This product:
 https://www.logitech.com/en-us/product/wireless-touch-keyboard-k400-plus?crid=27
